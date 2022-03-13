@@ -1,0 +1,3 @@
+I hope that
+I will learn
+this course of Python
